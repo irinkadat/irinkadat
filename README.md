@@ -1,6 +1,6 @@
-- 🧞‍♂️ Hi, I’m irinka datoshvili from Georgia
+- 🧞 Hi, I’m irinka datoshvili from Georgia
 - 👩🏻‍💻 I’m interested in coding and business
-- 🌱 I’m currently learning Information of Technology at Business and Technology University(BTU)
+- 👩🏻‍🎓 I’m currently learning Information of Technology at Business and Technology University(BTU)
 - 📫 How to reach me -> Mail: irdatoshvili@gmail.com
 
 <!---
